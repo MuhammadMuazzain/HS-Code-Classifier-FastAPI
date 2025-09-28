@@ -79,7 +79,7 @@ This endpoint accepts a list of product descriptions and returns the top 3 HS co
 To clone the repository, use the following commands:
 
 ```bash
-   git clone https://github.com/Muhammad-Talha4k/hs_code_classification_api_with_fast-flask.git
+   git clone https://github.com/MuhammadMuazzain/HS-Code-Classifier-FastAPI.git
    cd hs_code_classification_api_with_fast-flask
 ``` 
 ### Usage
@@ -97,3 +97,4 @@ Send a POST request to the /predict endpoint with descriptions in JSON format wi
 
 ### Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+Created by Muhammad Muazzain.
