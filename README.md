@@ -97,4 +97,4 @@ Send a POST request to the /predict endpoint with descriptions in JSON format wi
 
 ### Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-Created by Muhammad Muazzain.
+Created by Muhammad Muazzain
